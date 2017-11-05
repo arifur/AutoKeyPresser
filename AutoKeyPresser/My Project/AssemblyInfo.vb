@@ -9,10 +9,10 @@ Imports System.Runtime.InteropServices
 ' Review the values of the assembly attributes
 
 <Assembly: AssemblyTitle("AutoKeyPresser")> 
-<Assembly: AssemblyDescription("")> 
-<Assembly: AssemblyCompany("Microsoft")> 
-<Assembly: AssemblyProduct("AutoKeyPresser")> 
-<Assembly: AssemblyCopyright("Copyright © Microsoft 2012")> 
+<Assembly: AssemblyDescription("Auto Key Press is an application which can automatically press a specified key repeatedly in a specified amount of time.")> 
+<Assembly: AssemblyCompany("http://arifur.net")> 
+<Assembly: AssemblyProduct("Auto Key Presser")> 
+<Assembly: AssemblyCopyright("Copyright: GPL")> 
 <Assembly: AssemblyTrademark("")> 
 
 <Assembly: ComVisible(False)>
@@ -31,5 +31,5 @@ Imports System.Runtime.InteropServices
 ' by using the '*' as shown below:
 ' <Assembly: AssemblyVersion("1.0.*")> 
 
-<Assembly: AssemblyVersion("1.0.0.0")> 
-<Assembly: AssemblyFileVersion("1.0.0.0")> 
+<Assembly: AssemblyVersion("0.0.0.3")> 
+<Assembly: AssemblyFileVersion("0.0.0.3")> 

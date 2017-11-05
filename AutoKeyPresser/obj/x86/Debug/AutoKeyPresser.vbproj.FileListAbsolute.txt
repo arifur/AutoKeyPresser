@@ -13,3 +13,17 @@ C:\Users\havok\Documents\Visual Studio 2010\Projects\AutoKeyPresser\AutoKeyPress
 C:\Users\havok\Documents\Visual Studio 2010\Projects\AutoKeyPresser\AutoKeyPresser\obj\x86\Debug\AutoKeyPresser.exe.manifest
 C:\Users\havok\Documents\Visual Studio 2010\Projects\AutoKeyPresser\AutoKeyPresser\obj\x86\Debug\AutoKeyPresser.application
 C:\Users\havok\Documents\Visual Studio 2010\Projects\AutoKeyPresser\AutoKeyPresser\obj\x86\Debug\AutoKeyPresser.frm_main.resources
+C:\Users\arifur\Documents\Visual Studio 2012\Projects\AutoKeyPresser\AutoKeyPresser\obj\x86\Debug\AutoKeyPresser.exe
+C:\Users\arifur\Documents\Visual Studio 2012\Projects\AutoKeyPresser\AutoKeyPresser\obj\x86\Debug\AutoKeyPresser.xml
+C:\Users\arifur\Documents\Visual Studio 2012\Projects\AutoKeyPresser\AutoKeyPresser\obj\x86\Debug\AutoKeyPresser.pdb
+C:\Users\arifur\Documents\Visual Studio 2012\Projects\AutoKeyPresser\AutoKeyPresser\obj\x86\Debug\AutoKeyPresser.Resources.resources
+C:\Users\arifur\Documents\Visual Studio 2012\Projects\AutoKeyPresser\AutoKeyPresser\obj\x86\Debug\AutoKeyPresser.vbproj.GenerateResource.Cache
+C:\Users\arifur\Documents\Visual Studio 2012\Projects\AutoKeyPresser\AutoKeyPresser\bin\Debug\AutoKeyPresser.exe.manifest
+C:\Users\arifur\Documents\Visual Studio 2012\Projects\AutoKeyPresser\AutoKeyPresser\bin\Debug\AutoKeyPresser.application
+C:\Users\arifur\Documents\Visual Studio 2012\Projects\AutoKeyPresser\AutoKeyPresser\bin\Debug\AutoKeyPresser.exe
+C:\Users\arifur\Documents\Visual Studio 2012\Projects\AutoKeyPresser\AutoKeyPresser\bin\Debug\AutoKeyPresser.pdb
+C:\Users\arifur\Documents\Visual Studio 2012\Projects\AutoKeyPresser\AutoKeyPresser\bin\Debug\AutoKeyPresser.xml
+C:\Users\arifur\Documents\Visual Studio 2012\Projects\AutoKeyPresser\AutoKeyPresser\obj\x86\Debug\AutoKeyPresser.exe.manifest
+C:\Users\arifur\Documents\Visual Studio 2012\Projects\AutoKeyPresser\AutoKeyPresser\obj\x86\Debug\AutoKeyPresser.application
+C:\Users\arifur\Documents\Visual Studio 2012\Projects\AutoKeyPresser\AutoKeyPresser\obj\x86\Debug\AutoKeyPresser.frmAbout.resources
+C:\Users\arifur\Documents\Visual Studio 2012\Projects\AutoKeyPresser\AutoKeyPresser\obj\x86\Debug\AutoKeyPresser.frmMain.resources
