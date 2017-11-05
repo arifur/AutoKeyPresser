@@ -1,0 +1,15 @@
+c:\users\havok\documents\visual studio 2010\Projects\AutoKeyPresser\AutoKeyPresser\bin\Debug\AutoKeyPresser.exe
+c:\users\havok\documents\visual studio 2010\Projects\AutoKeyPresser\AutoKeyPresser\bin\Debug\AutoKeyPresser.pdb
+c:\users\havok\documents\visual studio 2010\Projects\AutoKeyPresser\AutoKeyPresser\bin\Debug\AutoKeyPresser.xml
+c:\users\havok\documents\visual studio 2010\Projects\AutoKeyPresser\AutoKeyPresser\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\havok\documents\visual studio 2010\Projects\AutoKeyPresser\AutoKeyPresser\obj\x86\Debug\AutoKeyPresser.Resources.resources
+c:\users\havok\documents\visual studio 2010\Projects\AutoKeyPresser\AutoKeyPresser\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\havok\documents\visual studio 2010\Projects\AutoKeyPresser\AutoKeyPresser\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\havok\documents\visual studio 2010\Projects\AutoKeyPresser\AutoKeyPresser\obj\x86\Debug\AutoKeyPresser.exe
+c:\users\havok\documents\visual studio 2010\Projects\AutoKeyPresser\AutoKeyPresser\obj\x86\Debug\AutoKeyPresser.xml
+c:\users\havok\documents\visual studio 2010\Projects\AutoKeyPresser\AutoKeyPresser\obj\x86\Debug\AutoKeyPresser.pdb
+c:\users\havok\documents\visual studio 2010\Projects\AutoKeyPresser\AutoKeyPresser\obj\x86\Debug\AutoKeyPresser.main_form.resources
+C:\Users\havok\Documents\Visual Studio 2010\Projects\AutoKeyPresser\AutoKeyPresser\bin\Debug\AutoKeyPresser.exe.manifest
+C:\Users\havok\Documents\Visual Studio 2010\Projects\AutoKeyPresser\AutoKeyPresser\bin\Debug\AutoKeyPresser.application
+C:\Users\havok\Documents\Visual Studio 2010\Projects\AutoKeyPresser\AutoKeyPresser\obj\x86\Debug\AutoKeyPresser.exe.manifest
+C:\Users\havok\Documents\Visual Studio 2010\Projects\AutoKeyPresser\AutoKeyPresser\obj\x86\Debug\AutoKeyPresser.application
