@@ -80,3 +80,20 @@ C:\Users\arifur\Documents\Visual Studio 2015\Projects\AutoKeyPresser\AutoKeyPres
 C:\Users\arifur\Documents\Visual Studio 2015\Projects\AutoKeyPresser\AutoKeyPresser\obj\x86\Debug\AutoKeyPresser.application
 C:\Users\arifur\Documents\Visual Studio 2015\Projects\AutoKeyPresser\AutoKeyPresser\obj\x86\Debug\AutoKeyPresser.exe
 C:\Users\arifur\Documents\Visual Studio 2015\Projects\AutoKeyPresser\AutoKeyPresser\obj\x86\Debug\AutoKeyPresser.pdb
+C:\Users\arifur\Projects\visual-studio\AutoKeyPresser\AutoKeyPresser\bin\Debug\AutoKeyPresser.exe.config
+C:\Users\arifur\Projects\visual-studio\AutoKeyPresser\AutoKeyPresser\bin\Debug\AutoKeyPresser.exe.manifest
+C:\Users\arifur\Projects\visual-studio\AutoKeyPresser\AutoKeyPresser\bin\Debug\AutoKeyPresser.application
+C:\Users\arifur\Projects\visual-studio\AutoKeyPresser\AutoKeyPresser\bin\Debug\AutoKeyPresser.exe
+C:\Users\arifur\Projects\visual-studio\AutoKeyPresser\AutoKeyPresser\bin\Debug\AutoKeyPresser.pdb
+C:\Users\arifur\Projects\visual-studio\AutoKeyPresser\AutoKeyPresser\bin\Debug\AutoKeyPresser.xml
+C:\Users\arifur\Projects\visual-studio\AutoKeyPresser\AutoKeyPresser\obj\x86\Debug\AutoKeyPresser.vbproj.AssemblyReference.cache
+C:\Users\arifur\Projects\visual-studio\AutoKeyPresser\AutoKeyPresser\obj\x86\Debug\AutoKeyPresser.frmAbout.resources
+C:\Users\arifur\Projects\visual-studio\AutoKeyPresser\AutoKeyPresser\obj\x86\Debug\AutoKeyPresser.frmMain.resources
+C:\Users\arifur\Projects\visual-studio\AutoKeyPresser\AutoKeyPresser\obj\x86\Debug\AutoKeyPresser.Resources.resources
+C:\Users\arifur\Projects\visual-studio\AutoKeyPresser\AutoKeyPresser\obj\x86\Debug\AutoKeyPresser.vbproj.GenerateResource.cache
+C:\Users\arifur\Projects\visual-studio\AutoKeyPresser\AutoKeyPresser\obj\x86\Debug\AutoKeyPresser.vbproj.CoreCompileInputs.cache
+C:\Users\arifur\Projects\visual-studio\AutoKeyPresser\AutoKeyPresser\obj\x86\Debug\AutoKeyPresser.exe.manifest
+C:\Users\arifur\Projects\visual-studio\AutoKeyPresser\AutoKeyPresser\obj\x86\Debug\AutoKeyPresser.application
+C:\Users\arifur\Projects\visual-studio\AutoKeyPresser\AutoKeyPresser\obj\x86\Debug\AutoKeyPresser.exe
+C:\Users\arifur\Projects\visual-studio\AutoKeyPresser\AutoKeyPresser\obj\x86\Debug\AutoKeyPresser.xml
+C:\Users\arifur\Projects\visual-studio\AutoKeyPresser\AutoKeyPresser\obj\x86\Debug\AutoKeyPresser.pdb

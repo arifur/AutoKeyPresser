@@ -6,18 +6,17 @@
     <deploymentProvider codebase="http://sourceforge.net/projects/autokeypresser/files/win/AutoKeyPresser.application" />
   </deployment>
   <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
-    <framework targetVersion="4.0" profile="Client" supportedRuntime="4.0.30319" />
-    <framework targetVersion="4.0" profile="Full" supportedRuntime="4.0.30319" />
+    <framework targetVersion="4.8" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="AutoKeyPresser.exe.manifest" size="4881">
+    <dependentAssembly dependencyType="install" codebase="AutoKeyPresser.exe.manifest" size="4949">
       <assemblyIdentity name="AutoKeyPresser.exe" version="0.7.0.0" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="x86" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>7TTGgbQmonw6Cvty1NHdzJO8C1k=</dsig:DigestValue>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>+WVIVl/2NurEZ4yLvbEmAiJxKEbWFzFxL7rfXkUajkA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
